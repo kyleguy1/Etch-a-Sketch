@@ -27,3 +27,5 @@ function makeColumns(cellNum) {
 
     };
 };
+
+defaultGrid();
